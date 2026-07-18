@@ -43,4 +43,7 @@ Follow these simple steps to run the repository on your local machine or Google 
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/YOUR_USERNAME/diabetes-risk-assessment-agent.git](https://github.com/YOUR_USERNAME/diabetes-risk-assessment-agent.git)
-cd diabetes-risk-assessment-agent
+cd diabetes-risk-assessment-agent.
+ ```
+```
+pip install pandas numpy scikit-learn xgboost gradio matplotlib seaborn
