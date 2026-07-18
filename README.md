@@ -47,3 +47,7 @@ cd diabetes-risk-assessment-agent.
  ```
 ```
 pip install pandas numpy scikit-learn xgboost gradio matplotlib seaborn
+'''
+'''
+python app.py
+'''
